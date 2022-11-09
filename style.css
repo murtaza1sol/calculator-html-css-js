@@ -1,0 +1,40 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.button{
+    
+    padding: 20px;
+    margin: 0 3px;
+    border: 1px solid rgb(223, 210, 210);
+    border-radius: 60px;
+    cursor: pointer;
+    width: 66px;
+    
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    
+    height: 40px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px px;
+    border: 1px solid rgb(121, 121, 121); 
+    border-radius: 22px;
+
+}
+.yellow{
+    background:rgb(252, 189, 62) ;
+}
+
+.button:hover 
+{
+    background-color:rgb(206, 201, 38);
+}
